@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/creative-ecstasy.png" width="100%" alt="Arte ASCII de uma figura em queda com o texto Creative Ecstasy — the concept of reztokia" />
+<img src="[![creative-ecstasy.png](https://i.postimg.cc/857t68tm/creative-ecstasy.png)](https://postimg.cc/7GygFRv5)" width="100%" alt="Arte ASCII de uma figura em queda com o texto Creative Ecstasy — the concept of reztokia" />
 
 <br><br>
 
