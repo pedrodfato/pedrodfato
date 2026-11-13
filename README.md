@@ -1,5 +1,5 @@
 <div align="center">
 
-<img src="https://i.postimg.cc/WzBkfCmb/Untitled-1-0d1117.png" width="100%" alt="Arte ASCII de uma figura em queda com o texto Creative Ecstasy — the concept of reztokia" />
+<img src="https://i.postimg.cc/PrDVy8Y6/Untitled-1-0d1117.png" width="100%" alt="Arte ASCII de uma figura em queda com o texto Creative Ecstasy — the concept of reztokia" />
 
 
